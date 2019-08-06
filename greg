@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<style>
+p {
+    color: red;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: green;
+    margin-right: 20px
+}
+
+</style>
+</head>
+<body> {
+    background-color: lightblue;
+}
+
+<h1>This is Greg.</h1>
+<h2>His favorite color is red.</h2>
+<p>He likes hanging posters on walls and solving rubiks cubes.</p>
+<p>Greg likes to travel to gas stations in the winter.</p>
+</body>
+</html>
